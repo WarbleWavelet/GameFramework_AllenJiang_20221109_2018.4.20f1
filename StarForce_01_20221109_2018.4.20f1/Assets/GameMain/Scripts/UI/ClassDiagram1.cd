@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StarForce.AboutForm" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEIAAAAAAQAAAAAAAAAAAEAAAQAAAIAAAEAAAA=</HashCode>
+      <FileName>Assets\GameMain\Scripts\UI\AboutForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarForce.CommonButton" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AECQIAAAAAAIAAAAAAAAAAAAAAAgABIIAAAgAQAAAEA=</HashCode>
+      <FileName>Assets\GameMain\Scripts\UI\CommonButton.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="StarForce.DialogForm" Collapsed="true">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iAEACEkAACACgAAAAAAAAQAwAUAAAABAAAIAIIAKIQA=</HashCode>
+      <FileName>Assets\GameMain\Scripts\UI\DialogForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarForce.DialogParams" Collapsed="true">
+    <Position X="3.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAgAAIAAAEAAAAACAAAgABCIAAAAAAAAIAAIAAA=</HashCode>
+      <FileName>Assets\GameMain\Scripts\UI\DialogParams.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarForce.MenuForm" Collapsed="true">
+    <Position X="2.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAkAAgAEAAAAAAAAABAAAAAAAQAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\GameMain\Scripts\UI\MenuForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarForce.SettingForm" Collapsed="true">
+    <Position X="5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAATIIMgAAAIiAAAEEgAAAEIABAACBIACAAACQkAAAE=</HashCode>
+      <FileName>Assets\GameMain\Scripts\UI\SettingForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarForce.UGuiForm" Collapsed="true">
+    <Position X="3.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAgIAEAAAAQAAgAAIAAIAEAAAAABBQxQBIBABGAAAA=</HashCode>
+      <FileName>Assets\GameMain\Scripts\UI\UGuiForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarForce.UGuiGroupHelper" Collapsed="true">
+    <Position X="5.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAAAAAAAAAAAAAAAAAAgABABAAAAAAAEA=</HashCode>
+      <FileName>Assets\GameMain\Scripts\UI\UGuiGroupHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarForce.UIExtension" Collapsed="true">
+    <Position X="2" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAEACAAAAAAAAAAgAAAAAIAAAAQAAAAABAAAAgA=</HashCode>
+      <FileName>Assets\GameMain\Scripts\UI\UIExtension.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StarForce.UpdateResourceForm" Collapsed="true">
+    <Position X="3.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAACAAAAAAAAAAAAAAQAAAAAACA=</HashCode>
+      <FileName>Assets\GameMain\Scripts\UI\UpdateResourceForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="StarForce.UIFormId" Collapsed="true">
+    <Position X="2" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAACEAAAAAAQAACA=</HashCode>
+      <FileName>Assets\GameMain\Scripts\UI\UIFormId.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
